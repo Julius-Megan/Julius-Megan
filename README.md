@@ -13,7 +13,7 @@ https://youtu.be/FoWIhiAXow8
       The database only includes a few lists of meals that you can copy and add to your own daily log. 
 
 
-The C++ codes below are from my class projects. 
+The C++ codes below are from my previous class projects. 
 
 <!--
 **Julius-Megan/Julius-Megan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,11 @@
 
 🌱 I’m a senior Computer Science Student. I have completed most of my programming classes, including CIS401(Web App Development)
 
-Please click the link to see my sample calorie tracker website:
 
-LINK
+**Please click the link to see my sample calorie tracker website:**
+
+https://youtu.be/FoWIhiAXow8
+
 
 👯  This is the finished project that I created in that class. It's a simple Calorie Tracker website.
       You can sign up and log in so you can keep track of your daily calories. I am still working on this project.
